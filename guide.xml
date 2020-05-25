@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SBT Interior (SP)">
+    <display-name lang="pt">SBT Interior</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WOOHOO HD">
+    <display-name lang="pt">WOOHOO HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="WARNE HD">
+    <display-name lang="pt">WARNE HD</display-name>
+    <icon src="https://www.lineup.tv.br/canais/ctv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="WARNE 4K">
+    <display-name lang="pt">WARNE 4K</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1567888331.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="VIVA HD">
+    <display-name lang="pt">VIVA HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200525010000 -0300" stop="20200525013000 -0300" channel="VIVA HD">
+    <title lang="pt">A Mulher Invisível</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525013000 -0300" stop="20200525023000 -0300" channel="VIVA HD">
+    <title lang="pt">Verdades não Ditas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525023000 -0300" stop="20200525033000 -0300" channel="VIVA HD">
+    <title lang="pt">Verdades não Ditas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525033000 -0300" stop="20200525043000 -0300" channel="VIVA HD">
+    <title lang="pt">Verdades não Ditas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525043000 -0300" stop="20200525053000 -0300" channel="VIVA HD">
+    <title lang="pt">Verdades não Ditas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525053000 -0300" stop="20200525063000 -0300" channel="VIVA HD">
+    <title lang="pt">Simbad, o Marujo Trapalhão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525063000 -0300" stop="20200525070000 -0300" channel="VIVA HD">
+    <title lang="pt">Vigiando a Vovó</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525070000 -0300" stop="20200525073000 -0300" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525073000 -0300" stop="20200525080000 -0300" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525080000 -0300" stop="20200525083000 -0300" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525083000 -0300" stop="20200525090000 -0300" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525090000 -0300" stop="20200525093000 -0300" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525093000 -0300" stop="20200525100000 -0300" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525100000 -0300" stop="20200525103000 -0300" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525103000 -0300" stop="20200525110000 -0300" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525110000 -0300" stop="20200525113000 -0300" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525113000 -0300" stop="20200525120000 -0300" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525120000 -0300" stop="20200525123000 -0300" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525123000 -0300" stop="20200525130000 -0300" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525130000 -0300" stop="20200525133000 -0300" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525133000 -0300" stop="20200525143000 -0300" channel="VIVA HD">
+    <title lang="pt">O Clone</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525143000 -0300" stop="20200525153000 -0300" channel="VIVA HD">
+    <title lang="pt">Brega &amp; Chique</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525153000 -0300" stop="20200525161500 -0300" channel="VIVA HD">
+    <title lang="pt">Chocolate com Pimenta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525161500 -0300" stop="20200525164500 -0300" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525164500 -0300" stop="20200525170000 -0300" channel="VIVA HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525170000 -0300" stop="20200525180000 -0300" channel="VIVA HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525180000 -0300" stop="20200525183000 -0300" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525183000 -0300" stop="20200525193000 -0300" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525193000 -0300" stop="20200525200000 -0300" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525200000 -0300" stop="20200525210000 -0300" channel="VIVA HD">
+    <title lang="pt">Escolinha Nova Geração</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525210000 -0300" stop="20200525220000 -0300" channel="VIVA HD">
+    <title lang="pt">Os Caras de Pau</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525223000 -0300" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525223000 -0300" stop="20200525230000 -0300" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525230000 -0300" stop="20200526000000 -0300" channel="VIVA HD">
+    <title lang="pt">O Clone</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
