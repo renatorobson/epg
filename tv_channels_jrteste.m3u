@@ -1,0 +1,453 @@
+#EXTM3U
+#EXTINF:-1,TV Manchete
+http://167.71.176.232:8080/live/jrteste/jrtes/675.ts
+#EXTINF:-1,TV ARACATI
+http://167.71.176.232:8080/live/jrteste/jrtes/679.ts
+#EXTINF:-1,SBT Interior (SP)
+http://167.71.176.232:8080/live/jrteste/jrtes/676.ts
+#EXTINF:-1,ZOO MOO KIDS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/575.ts
+#EXTINF:-1,WOOHOO HD
+http://167.71.176.232:8080/live/jrteste/jrtes/591.ts
+#EXTINF:-1,WARNE HD
+http://167.71.176.232:8080/live/jrteste/jrtes/616.ts
+#EXTINF:-1,WARNE 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/617.ts
+#EXTINF:-1,VIVA HD
+http://167.71.176.232:8080/live/jrteste/jrtes/590.ts
+#EXTINF:-1,VHA1 MEGA HITS
+http://167.71.176.232:8080/live/jrteste/jrtes/583.ts
+#EXTINF:-1,VH1 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/582.ts
+#EXTINF:-1,VENUS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/654.ts
+#EXTINF:-1,UNIVERSAL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/614.ts
+#EXTINF:-1,UNIVERSAL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/615.ts
+#EXTINF:-1,TV5MONDE
+http://167.71.176.232:8080/live/jrteste/jrtes/520.ts
+#EXTINF:-1,TV VIVA
+http://167.71.176.232:8080/live/jrteste/jrtes/481.ts
+#EXTINF:-1,TV SENADO
+http://167.71.176.232:8080/live/jrteste/jrtes/482.ts
+#EXTINF:-1,TV JUSTICA
+http://167.71.176.232:8080/live/jrteste/jrtes/480.ts
+#EXTINF:-1,TV ESCOLA
+http://167.71.176.232:8080/live/jrteste/jrtes/479.ts
+#EXTINF:-1,TV CULTURA
+http://167.71.176.232:8080/live/jrteste/jrtes/462.ts
+#EXTINF:-1,TV CAMARA
+http://167.71.176.232:8080/live/jrteste/jrtes/478.ts
+#EXTINF:-1,TV BRASIL ANIMADA
+http://167.71.176.232:8080/live/jrteste/jrtes/477.ts
+#EXTINF:-1,TV APARECIDA HD
+http://167.71.176.232:8080/live/jrteste/jrtes/476.ts
+#EXTINF:-1,TV ABERTA SP
+http://167.71.176.232:8080/live/jrteste/jrtes/459.ts
+#EXTINF:-1,TOONCAST HD
+http://167.71.176.232:8080/live/jrteste/jrtes/658.ts
+#EXTINF:-1,TNT SERIES 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/613.ts
+#EXTINF:-1,TNT SERIES
+http://167.71.176.232:8080/live/jrteste/jrtes/454.ts
+#EXTINF:-1,TNT 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/638.ts
+#EXTINF:-1,TNT
+http://167.71.176.232:8080/live/jrteste/jrtes/453.ts
+#EXTINF:-1,TLC HD
+http://167.71.176.232:8080/live/jrteste/jrtes/560.ts
+#EXTINF:-1,THE VOICE KIDS ARABIC
+http://167.71.176.232:8080/live/jrteste/jrtes/664.ts
+#EXTINF:-1,THE LIVING BEACH
+http://167.71.176.232:8080/live/jrteste/jrtes/513.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://167.71.176.232:8080/live/jrteste/jrtes/647.ts
+#EXTINF:-1,TELECINE TOUCH 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/648.ts
+#EXTINF:-1,TELE CINE PREMIUN HD
+http://167.71.176.232:8080/live/jrteste/jrtes/645.ts
+#EXTINF:-1,TELE CINE PREMIUN 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/646.ts
+#EXTINF:-1,TELE CINE PREMIUM
+http://167.71.176.232:8080/live/jrteste/jrtes/471.ts
+#EXTINF:-1,TELE CINE PIPOCA HD
+http://167.71.176.232:8080/live/jrteste/jrtes/643.ts
+#EXTINF:-1,TELE CINE PIPOCA 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/644.ts
+#EXTINF:-1,TELE CINE FUN HD
+http://167.71.176.232:8080/live/jrteste/jrtes/641.ts
+#EXTINF:-1,TELE CINE FUN 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/642.ts
+#EXTINF:-1,TELE CINE CULT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/639.ts
+#EXTINF:-1,TELE CINE CULT 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/640.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://167.71.176.232:8080/live/jrteste/jrtes/649.ts
+#EXTINF:-1,TELE CINE ACTION 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/650.ts
+#EXTINF:-1,TCM HD
+http://167.71.176.232:8080/live/jrteste/jrtes/637.ts
+#EXTINF:-1,TBS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/612.ts
+#EXTINF:-1,SY FY HD
+http://167.71.176.232:8080/live/jrteste/jrtes/611.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/610.ts
+#EXTINF:-1,SPORT TV HD
+http://167.71.176.232:8080/live/jrteste/jrtes/508.ts
+#EXTINF:-1,SPORT TV 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/509.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/512.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/510.ts
+#EXTINF:-1,SPORT TV 2 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/511.ts
+#EXTINF:-1,SPACE 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/636.ts
+#EXTINF:-1,SONY CHANNEL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/596.ts
+#EXTINF:-1,SONY CHANNEL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/597.ts
+#EXTINF:-1,SMITHSONIAN CHANEL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/562.ts
+#EXTINF:-1,SIC
+http://167.71.176.232:8080/live/jrteste/jrtes/519.ts
+#EXTINF:-1,SHOP TIME HD
+http://167.71.176.232:8080/live/jrteste/jrtes/589.ts
+#EXTINF:-1,SEX TREME HD
+http://167.71.176.232:8080/live/jrteste/jrtes/652.ts
+#EXTINF:-1,SEX HOT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/653.ts
+#EXTINF:-1,SBT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/475.ts
+#EXTINF:-1,SBT
+http://167.71.176.232:8080/live/jrteste/jrtes/450.ts
+#EXTINF:-1,RECORD NEWS
+http://167.71.176.232:8080/live/jrteste/jrtes/518.ts
+#EXTINF:-1,RECORD HD
+http://167.71.176.232:8080/live/jrteste/jrtes/469.ts
+#EXTINF:-1,RECORD 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/470.ts
+#EXTINF:-1,RA_TIM_BUM HD
+http://167.71.176.232:8080/live/jrteste/jrtes/574.ts
+#EXTINF:-1,PRPAGANDA DA NET
+http://167.71.176.232:8080/live/jrteste/jrtes/607.ts
+#EXTINF:-1,PRIME MUSIC HD
+http://167.71.176.232:8080/live/jrteste/jrtes/635.ts
+#EXTINF:-1,PREMIER CLUBS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/499.ts
+#EXTINF:-1,PREMIER CLUBS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/500.ts
+#EXTINF:-1,PREMIER 6 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/507.ts
+#EXTINF:-1,PREMIER 5 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/505.ts
+#EXTINF:-1,PREMIER 5 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/506.ts
+#EXTINF:-1,PREMIER 3 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/503.ts
+#EXTINF:-1,PREMIER 3 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/504.ts
+#EXTINF:-1,PREMIER 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/501.ts
+#EXTINF:-1,PREMIER 2 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/502.ts
+#EXTINF:-1,POLISHOP
+http://167.71.176.232:8080/live/jrteste/jrtes/456.ts
+#EXTINF:-1,PLAYBOY HD
+http://167.71.176.232:8080/live/jrteste/jrtes/651.ts
+#EXTINF:-1,PARAMOUNT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/609.ts
+#EXTINF:-1,OTV ARABIC
+http://167.71.176.232:8080/live/jrteste/jrtes/661.ts
+#EXTINF:-1,OLYPIC CHANNEL
+http://167.71.176.232:8080/live/jrteste/jrtes/533.ts
+#EXTINF:-1,NICK HD
+http://167.71.176.232:8080/live/jrteste/jrtes/573.ts
+#EXTINF:-1,NIC JR HD
+http://167.71.176.232:8080/live/jrteste/jrtes/577.ts
+#EXTINF:-1,NHK
+http://167.71.176.232:8080/live/jrteste/jrtes/517.ts
+#EXTINF:-1,NAT GEOL KIDS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/572.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://167.71.176.232:8080/live/jrteste/jrtes/557.ts
+#EXTINF:-1,NAT GEO WILD 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/558.ts
+#EXTINF:-1,NAT GEO TRAVEL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/555.ts
+#EXTINF:-1,NAT GEO TRAVEL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/556.ts
+#EXTINF:-1,MUSIC HD
+http://167.71.176.232:8080/live/jrteste/jrtes/581.ts
+#EXTINF:-1,MTV LIVE HD
+http://167.71.176.232:8080/live/jrteste/jrtes/580.ts
+#EXTINF:-1,MTV HD ARABIC
+http://167.71.176.232:8080/live/jrteste/jrtes/660.ts
+#EXTINF:-1,MTV HD
+http://167.71.176.232:8080/live/jrteste/jrtes/579.ts
+#EXTINF:-1,MEGAPIX HD
+http://167.71.176.232:8080/live/jrteste/jrtes/608.ts
+#EXTINF:-1,MEGA PIXEL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/619.ts
+#EXTINF:-1,MBC HD
+http://167.71.176.232:8080/live/jrteste/jrtes/667.ts
+#EXTINF:-1,MBC 3
+http://167.71.176.232:8080/live/jrteste/jrtes/665.ts
+#EXTINF:-1,MAIS GLOB0SAT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/588.ts
+#EXTINF:-1,LIFETIME HD
+http://167.71.176.232:8080/live/jrteste/jrtes/606.ts
+#EXTINF:-1,JOIE
+http://167.71.176.232:8080/live/jrteste/jrtes/474.ts
+#EXTINF:-1,IPB
+http://167.71.176.232:8080/live/jrteste/jrtes/457.ts
+#EXTINF:-1,HISTORY HD
+http://167.71.176.232:8080/live/jrteste/jrtes/552.ts
+#EXTINF:-1,HISTORY 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/553.ts
+#EXTINF:-1,HISTORY 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/659.ts
+#EXTINF:-1,HGTV HD
+http://167.71.176.232:8080/live/jrteste/jrtes/561.ts
+#EXTINF:-1,HBO XTREME
+http://167.71.176.232:8080/live/jrteste/jrtes/455.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://167.71.176.232:8080/live/jrteste/jrtes/628.ts
+#EXTINF:-1,HBO POP HD
+http://167.71.176.232:8080/live/jrteste/jrtes/620.ts
+#EXTINF:-1,HBO POP 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/634.ts
+#EXTINF:-1,HBO MUNDI HD
+http://167.71.176.232:8080/live/jrteste/jrtes/631.ts
+#EXTINF:-1,HBO MUNDI 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/632.ts
+#EXTINF:-1,HBO HD
+http://167.71.176.232:8080/live/jrteste/jrtes/621.ts
+#EXTINF:-1,HBO FAMILY HD
+http://167.71.176.232:8080/live/jrteste/jrtes/627.ts
+#EXTINF:-1,HBO FAMILY 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/629.ts
+#EXTINF:-1,HBO FAMILY
+http://167.71.176.232:8080/live/jrteste/jrtes/630.ts
+#EXTINF:-1,HBO EXTREME 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/633.ts
+#EXTINF:-1,HBO 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/622.ts
+#EXTINF:-1,HBO 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/623.ts
+#EXTINF:-1,HBO   HD
+http://167.71.176.232:8080/live/jrteste/jrtes/625.ts
+#EXTINF:-1,HBO   4K
+http://167.71.176.232:8080/live/jrteste/jrtes/626.ts
+#EXTINF:-1,HB0 2 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/624.ts
+#EXTINF:-1,GNT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/587.ts
+#EXTINF:-1,GLOOB HD
+http://167.71.176.232:8080/live/jrteste/jrtes/570.ts
+#EXTINF:-1,GLOOB 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/571.ts
+#EXTINF:-1,GLOBO RJ
+http://167.71.176.232:8080/live/jrteste/jrtes/468.ts
+#EXTINF:-1,GLOBO NEWS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/522.ts
+#EXTINF:-1,GLOBO NE
+http://167.71.176.232:8080/live/jrteste/jrtes/466.ts
+#EXTINF:-1,GLOBO BA
+http://167.71.176.232:8080/live/jrteste/jrtes/467.ts
+#EXTINF:-1,GLOBO 3
+http://167.71.176.232:8080/live/jrteste/jrtes/465.ts
+#EXTINF:-1,GLOBO 2
+http://167.71.176.232:8080/live/jrteste/jrtes/464.ts
+#EXTINF:-1,GLOBO 1
+http://167.71.176.232:8080/live/jrteste/jrtes/451.ts
+#EXTINF:-1,GAZETA HD
+http://167.71.176.232:8080/live/jrteste/jrtes/656.ts
+#EXTINF:-1,GAZETA 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/657.ts
+#EXTINF:-1,FX HD
+http://167.71.176.232:8080/live/jrteste/jrtes/550.ts
+#EXTINF:-1,FX 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/551.ts
+#EXTINF:-1,FOX SPORTS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/493.ts
+#EXTINF:-1,FOX SPORTS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/494.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/495.ts
+#EXTINF:-1,FOX SPORTS 2 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/496.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/604.ts
+#EXTINF:-1,FOX PREMIUM 2 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/605.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/602.ts
+#EXTINF:-1,FOX PREMIUM 1 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/603.ts
+#EXTINF:-1,FOX LIFE HD
+http://167.71.176.232:8080/live/jrteste/jrtes/600.ts
+#EXTINF:-1,FOX LIFE 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/601.ts
+#EXTINF:-1,FOX HD
+http://167.71.176.232:8080/live/jrteste/jrtes/598.ts
+#EXTINF:-1,FOX 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/599.ts
+#EXTINF:-1,FOOD HD
+http://167.71.176.232:8080/live/jrteste/jrtes/548.ts
+#EXTINF:-1,FOOD 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/549.ts
+#EXTINF:-1,FISH TV HD
+http://167.71.176.232:8080/live/jrteste/jrtes/547.ts
+#EXTINF:-1,FILMES & ARTS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/563.ts
+#EXTINF:-1,FASHION TV HD
+http://167.71.176.232:8080/live/jrteste/jrtes/593.ts
+#EXTINF:-1,EURO CHANNEL
+http://167.71.176.232:8080/live/jrteste/jrtes/535.ts
+#EXTINF:-1,ESPN HD
+http://167.71.176.232:8080/live/jrteste/jrtes/489.ts
+#EXTINF:-1,ESPN EXTRA
+http://167.71.176.232:8080/live/jrteste/jrtes/488.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/491.ts
+#EXTINF:-1,ESPN BRASIL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/492.ts
+#EXTINF:-1,ESPN 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/490.ts
+#EXTINF:-1,ESPN 2 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/669.ts
+#EXTINF:-1,EPTV FHDS4
+http://167.71.176.232:8080/live/jrteste/jrtes/483.ts
+#EXTINF:-1,E! HD
+http://167.71.176.232:8080/live/jrteste/jrtes/592.ts
+#EXTINF:-1,DW
+http://167.71.176.232:8080/live/jrteste/jrtes/516.ts
+#EXTINF:-1,DISNEY JR HD
+http://167.71.176.232:8080/live/jrteste/jrtes/568.ts
+#EXTINF:-1,DISNEY CHANEL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/567.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://167.71.176.232:8080/live/jrteste/jrtes/546.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://167.71.176.232:8080/live/jrteste/jrtes/544.ts
+#EXTINF:-1,DISCOVERY TURBO 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/545.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://167.71.176.232:8080/live/jrteste/jrtes/542.ts
+#EXTINF:-1,DISCOVERY THEATER 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/543.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/576.ts
+#EXTINF:-1,DISCOVERY ID HD
+http://167.71.176.232:8080/live/jrteste/jrtes/554.ts
+#EXTINF:-1,DISCOVERY H&H HD
+http://167.71.176.232:8080/live/jrteste/jrtes/538.ts
+#EXTINF:-1,DISCOVERY H&H 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/539.ts
+#EXTINF:-1,DISCOVERY CHANEL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/540.ts
+#EXTINF:-1,DISCOVERY CHANEL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/541.ts
+#EXTINF:-1,DINEY XD HD
+http://167.71.176.232:8080/live/jrteste/jrtes/569.ts
+#EXTINF:-1,CURTA!
+http://167.71.176.232:8080/live/jrteste/jrtes/463.ts
+#EXTINF:-1,COMEDY CENTRL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/585.ts
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/586.ts
+#EXTINF:-1,COMBAT HD
+http://167.71.176.232:8080/live/jrteste/jrtes/486.ts
+#EXTINF:-1,COMBAT 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/487.ts
+#EXTINF:-1,CNU INATEL
+http://167.71.176.232:8080/live/jrteste/jrtes/461.ts
+#EXTINF:-1,CNN INTERNACIONAL
+http://167.71.176.232:8080/live/jrteste/jrtes/515.ts
+#EXTINF:-1,CNN BRASIL HD
+http://167.71.176.232:8080/live/jrteste/jrtes/559.ts
+#EXTINF:-1,CNN BRASIL 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/668.ts
+#EXTINF:-1,CINEMAX HD
+http://167.71.176.232:8080/live/jrteste/jrtes/670.ts
+#EXTINF:-1,CARTOON HD
+http://167.71.176.232:8080/live/jrteste/jrtes/566.ts
+#EXTINF:-1,CANAL RURAL
+http://167.71.176.232:8080/live/jrteste/jrtes/460.ts
+#EXTINF:-1,CANAL OFF HD
+http://167.71.176.232:8080/live/jrteste/jrtes/497.ts
+#EXTINF:-1,CANAL OFF 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/498.ts
+#EXTINF:-1,CANAL BRASIL
+http://167.71.176.232:8080/live/jrteste/jrtes/458.ts
+#EXTINF:-1,BOOM MERANG HD
+http://167.71.176.232:8080/live/jrteste/jrtes/565.ts
+#EXTINF:-1,BLOOMBERG
+http://167.71.176.232:8080/live/jrteste/jrtes/514.ts
+#EXTINF:-1,BIS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/578.ts
+#EXTINF:-1,BEIN SPORTS HD 9
+http://167.71.176.232:8080/live/jrteste/jrtes/532.ts
+#EXTINF:-1,BEIN SPORTS HD 8
+http://167.71.176.232:8080/live/jrteste/jrtes/531.ts
+#EXTINF:-1,BEIN SPORTS HD 7
+http://167.71.176.232:8080/live/jrteste/jrtes/530.ts
+#EXTINF:-1,BEIN SPORTS HD 6
+http://167.71.176.232:8080/live/jrteste/jrtes/529.ts
+#EXTINF:-1,BEIN SPORTS HD 5
+http://167.71.176.232:8080/live/jrteste/jrtes/528.ts
+#EXTINF:-1,BEIN SPORTS HD 4
+http://167.71.176.232:8080/live/jrteste/jrtes/527.ts
+#EXTINF:-1,BEIN SPORTS HD 3
+http://167.71.176.232:8080/live/jrteste/jrtes/526.ts
+#EXTINF:-1,BEIN SPORTS HD 2
+http://167.71.176.232:8080/live/jrteste/jrtes/525.ts
+#EXTINF:-1,BEIN SPORTS HD 11
+http://167.71.176.232:8080/live/jrteste/jrtes/534.ts
+#EXTINF:-1,BEIN SPORTS HD 1
+http://167.71.176.232:8080/live/jrteste/jrtes/524.ts
+#EXTINF:-1,BEIN SPORTS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/537.ts
+#EXTINF:-1,BAND SPORTS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/484.ts
+#EXTINF:-1,BAND SPORTS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/485.ts
+#EXTINF:-1,BAND NEWS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/523.ts
+#EXTINF:-1,BABY TV HD
+http://167.71.176.232:8080/live/jrteste/jrtes/564.ts
+#EXTINF:-1,AXN HD
+http://167.71.176.232:8080/live/jrteste/jrtes/618.ts
+#EXTINF:-1,ARTE 1 HD
+http://167.71.176.232:8080/live/jrteste/jrtes/584.ts
+#EXTINF:-1,ARABICO NAO SEI
+http://167.71.176.232:8080/live/jrteste/jrtes/655.ts
+#EXTINF:-1,ARABIC 1
+http://167.71.176.232:8080/live/jrteste/jrtes/663.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://167.71.176.232:8080/live/jrteste/jrtes/536.ts
+#EXTINF:-1,AMC HD
+http://167.71.176.232:8080/live/jrteste/jrtes/595.ts
+#EXTINF:-1,AMC
+http://167.71.176.232:8080/live/jrteste/jrtes/452.ts
+#EXTINF:-1,AL MAYADDEEN ARABIC
+http://167.71.176.232:8080/live/jrteste/jrtes/662.ts
+#EXTINF:-1,AINDA NAO SEI 2
+http://167.71.176.232:8080/live/jrteste/jrtes/672.ts
+#EXTINF:-1,AD BRAS HD
+http://167.71.176.232:8080/live/jrteste/jrtes/472.ts
+#EXTINF:-1,AD BRAS 4K
+http://167.71.176.232:8080/live/jrteste/jrtes/473.ts
+#EXTINF:-1,A&E HD
+http://167.71.176.232:8080/live/jrteste/jrtes/594.ts
+#EXTINF:-1,7 TVE
+http://167.71.176.232:8080/live/jrteste/jrtes/521.ts
+#EXTINF:-1,Filme Acao
+http://167.71.176.232:8080/movie/jrteste/jrtes/2.mp4
+#EXTINF:-1,Band
+http://167.71.176.232:8080/live/jrteste/jrtes/1.ts
